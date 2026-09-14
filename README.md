@@ -21,8 +21,8 @@ Using the semantic HTML elements from your Chapter 2 prep work, create the basic
 
 ```html
 <header>
-    <h1>Your Name</h1>
-    <p class="tagline">Your Title/Role</p>
+    <h1>Serene Cheon</h1>
+    <p class="tagline">UX Researcher</p>
 </header>
 
 <nav>
@@ -34,11 +34,13 @@ Using the semantic HTML elements from your Chapter 2 prep work, create the basic
 </nav>
 
 <main>
-    <!-- We'll add sections here -->
+    <h2>About Me</h2>
+    <p>Hi! My name is Serene.</p>
+    <p>I'm a master's student at UC Berkeley.</p>
 </main>
 
 <footer>
-    <p>&copy; 2025 Your Name</p>
+    <p>&copy; 2025 Serene Cheon</p>
 </footer>
 ```
 
